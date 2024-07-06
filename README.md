@@ -1,12 +1,14 @@
-<h1 align="center">Hi 🧑🏻‍💻! My name is Hernan! and I'm a Backend Developer.</h1>
+<div align = "center">
+<h1 align="center">Hi 🧑🏻‍💻! My name is Hernan! </h1>
+  <h2> I'm a Backend Developer. </h2> 
+</div>
 
-###
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![Black and White Modern Tech Company Presentation](https://github.com/HernanMA/HernanMA/assets/156428836/550f027c-39d8-4dc4-9842-08013c9a92e9)
+
+
 
 ###
 
