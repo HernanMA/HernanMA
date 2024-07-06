@@ -2,12 +2,8 @@
 <h1 align="center">Hi 🧑🏻‍💻! My name is Hernan! </h1>
 </div>
 
-
 <br clear="both">
-
-![Black and White Modern Tech Company Presentation](https://github.com/HernanMA/HernanMA/assets/156428836/550f027c-39d8-4dc4-9842-08013c9a92e9)
-
-
+![Black and White Modern Tech Company Presentation (1)](https://github.com/HernanMA/HernanMA/assets/156428836/27ca8d00-4a23-40d2-b392-3a47d7b52211)
 
 ###
 
