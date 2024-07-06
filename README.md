@@ -1,11 +1,10 @@
 <div align = "center">
 <h1 align="center">Hi 🧑🏻‍💻! My name is Hernan! </h1>
 </div>
-
 <br clear="both">
-![Black and White Modern Tech Company Presentation (1)](https://github.com/HernanMA/HernanMA/assets/156428836/27ca8d00-4a23-40d2-b392-3a47d7b52211)
 
-###
+![file](https://github.com/HernanMA/HernanMA/assets/156428836/902d6a53-dae4-4ccb-b335-dfaec984b6a0)
+
 
 <p align="left"> Backend Developer | Java Specialist | MySQL | JavaScript | Technical Mentorship | Efficient Programming | Project Management | Security and Scalability | Technical Proficiency | Stoic Mindset </p>
 
