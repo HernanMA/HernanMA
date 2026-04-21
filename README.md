@@ -1,15 +1,12 @@
 <div align = "center">
-<h1 align="center">Hi 🧑🏻‍💻! My name is Hernan! </h1>
+<h1 align="center"> Welcome 🧑🏻‍💻! My name is Hernan! </h1>
 </div>
 <br clear="both">
 
 ![file](https://github.com/HernanMA/HernanMA/assets/156428836/902d6a53-dae4-4ccb-b335-dfaec984b6a0)
 
-
-<p align="left"> Backend Developer | Java Specialist | MySQL | JavaScript | Technical Mentorship | Efficient Programming | Project Management | Security and Scalability | Technical Proficiency | Stoic Mindset </p>
-
 ###
-<h1> My Skills </h1>
+<h1> Skills </h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -24,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
@@ -34,13 +32,7 @@
 </div>
 
 ###
-<h1> Social Media </h1>
-<div align="left">
-  <a href="https://www.linkedin.com/in/hernan-mendez-6659962b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-<h1> My Statistics 💻</h1>
+<h1> Statistics 💻</h1>
 <div align="center">
  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HernanMA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
