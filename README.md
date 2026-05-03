@@ -32,11 +32,7 @@
 </div>
 
 ###
-<h1> Statistics 💻</h1>
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HernanMA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 <h1></h1>
 <img src="https://raw.githubusercontent.com/HernanMA/HernanMA/output/snake.svg" alt="Snake animation" />
 
